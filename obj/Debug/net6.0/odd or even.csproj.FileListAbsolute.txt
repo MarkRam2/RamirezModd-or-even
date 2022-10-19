@@ -1,0 +1,15 @@
+C:\Users\Mark\Desktop\codeclass\odd or even\bin\Debug\net6.0\odd or even.exe
+C:\Users\Mark\Desktop\codeclass\odd or even\bin\Debug\net6.0\odd or even.deps.json
+C:\Users\Mark\Desktop\codeclass\odd or even\bin\Debug\net6.0\odd or even.runtimeconfig.json
+C:\Users\Mark\Desktop\codeclass\odd or even\bin\Debug\net6.0\odd or even.dll
+C:\Users\Mark\Desktop\codeclass\odd or even\bin\Debug\net6.0\odd or even.pdb
+C:\Users\Mark\Desktop\codeclass\odd or even\obj\Debug\net6.0\odd or even.csproj.AssemblyReference.cache
+C:\Users\Mark\Desktop\codeclass\odd or even\obj\Debug\net6.0\odd or even.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mark\Desktop\codeclass\odd or even\obj\Debug\net6.0\odd or even.AssemblyInfoInputs.cache
+C:\Users\Mark\Desktop\codeclass\odd or even\obj\Debug\net6.0\odd or even.AssemblyInfo.cs
+C:\Users\Mark\Desktop\codeclass\odd or even\obj\Debug\net6.0\odd or even.csproj.CoreCompileInputs.cache
+C:\Users\Mark\Desktop\codeclass\odd or even\obj\Debug\net6.0\odd or even.dll
+C:\Users\Mark\Desktop\codeclass\odd or even\obj\Debug\net6.0\refint\odd or even.dll
+C:\Users\Mark\Desktop\codeclass\odd or even\obj\Debug\net6.0\odd or even.pdb
+C:\Users\Mark\Desktop\codeclass\odd or even\obj\Debug\net6.0\odd or even.genruntimeconfig.cache
+C:\Users\Mark\Desktop\codeclass\odd or even\obj\Debug\net6.0\ref\odd or even.dll
