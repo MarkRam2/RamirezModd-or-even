@@ -1,5 +1,5 @@
 ﻿// mark ramirez
-// 9/13/2022
+// 10/19/2022
 //odd or even
 
 Console.Clear();
