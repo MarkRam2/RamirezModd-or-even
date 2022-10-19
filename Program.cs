@@ -4,7 +4,6 @@
 
 Console.Clear();
 
-
 long vnum;
 bool num;
 bool validation = true;
