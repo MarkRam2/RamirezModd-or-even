@@ -1,6 +1,7 @@
 ﻿// mark ramirez
 // 10/19/2022
 //odd or even
+// it will ask you for a number and then tell weather or not this number is odd or even
 
 Console.Clear();
 
